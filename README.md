@@ -1,1 +1,1 @@
-Start
+Throughout my experiance on coursea furthering my education, I have been provided practice assigments and mocks scenerios.These are to show I understood the material and give me a chance to display my experiances, competence and technical skills learned. Each course where applicable I have also added a file of relevent information that I learned myself outside the course to better understand the material I just learned.
