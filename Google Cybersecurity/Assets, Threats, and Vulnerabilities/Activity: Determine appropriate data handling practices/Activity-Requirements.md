@@ -1,9 +1,3 @@
-Got you, Chris — here’s a **clean, professional, emoji‑free Markdown version**, with the unnecessary “template” lines removed and the structure tightened up. This is suitable for GitHub or any documentation repo.
-
----
-
-# Data Leak Worksheet — Professional Markdown Version
-
 ## Step 1: Overview  
 The principle of least privilege is a core security control that protects information privacy. Its effectiveness decreases when too many users receive access to sensitive data. Data leaks often occur when information is shared without proper oversight.
 
@@ -50,7 +44,3 @@ Your final submission should contain:
 - 2–3 sentences summarizing NIST SP 800‑53 AC‑6  
 - Two control enhancement recommendations  
 - 2–3 sentences justifying your recommendations  
-
----
-
-If you want, I can also format this as a README.md with a table of contents or convert it into a more formal documentation style.
